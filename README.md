@@ -1,2 +1,3 @@
-# choose-your-own-adventure-hub
-This repository is a 'Project Hub', where people can freely display their own 'Choose your own Adventure' (CYOAs) for the public view. To display your CYOA in this repository, please email me at 'briannap203@nycstudents.net', or DM me on discord at @sleepy_bri. Thank You!
+# Choose your own Adventure Public Hub!
+
+As the description says, this is a 'Hub Repository' (A Repository with the sole purpose of linking to other Repositories) that specifically displays people's Choose your own Adventure (CYOA) Repositories. Below this message, there will be 3 Links: 1 of them will be to a page that displays my own CYOAs, 1 will be to a page that displays other people's CYOAs, and 1 that links to Template CYOAs.
